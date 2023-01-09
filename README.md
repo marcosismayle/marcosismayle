@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marcos Ismayle</h1>
-<h3 align="center">A frontend development student in Brigham Young University - Idaho</h3>
+<h3 align="center">A Web development student in Brigham Young University - Idaho</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcosismayle&label=Profile%20views&color=0e75b6&style=flat" alt="marcosismayle" /> </p>
 
